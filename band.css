@@ -99,6 +99,9 @@ center{
     margin-left: auto;
 }
 
+#앱{
+    
+}
 
 center{
     width: 80%;
@@ -132,8 +135,8 @@ footer{
     width: 80%;
     margin-right: auto;
     margin-left: auto;
-    margin-top: 0px;
-      padding: 10px;
+    margin-top: 100px;
+      padding: 5px;
     color: #fff;
     background-color: #fc1a1a;
     text-align: center;

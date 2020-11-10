@@ -42,3 +42,11 @@ nav ul li a{
      margin-right: auto;
     margin-left: auto;
 }
+
+#앱{
+    margin-right: auto;
+    margin-left: auto;
+    width: 100px;
+    height: 100x;
+    padding: 20px; 
+}
