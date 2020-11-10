@@ -1,11 +1,11 @@
 header{
-    text-align: center;  
+    text-align: center; 
 }
 
 #혁오{
     padding-top: 20px;
+    width: 80%;
 }
-
 nav ul{
     list-style-type: none;
     width: 80%;
@@ -42,7 +42,7 @@ center{
     text-align: center;
     font-weight: bold;
     color: #fff;
-    width: 50%;
+    width: 40%;
     background-color: #fc1a1a;
     padding: 10px;
 }
