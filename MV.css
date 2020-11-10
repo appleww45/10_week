@@ -6,6 +6,18 @@ header{
     padding-top: 20px;
 }
 
+.album {
+    border-bottom: 2px solid;
+    text-align: center;
+    width: 30%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    opacity: 0.6;
+}
+
+
 nav ul{
     list-style-type: none;
     width: 80%;
@@ -43,10 +55,33 @@ nav ul li a{
     margin-left: auto;
 }
 
-#앱{
+section{
+    text-align: center;
+}
+
+iframe{
+    padding: 10px;
+    padding-top: 20px;
+}
+
+#app{
     margin-right: auto;
     margin-left: auto;
-    width: 100px;
-    height: 100x;
-    padding: 20px; 
+    width: 300px;
+    height: 200x;
+}
+
+#app:hover{
+    opacity: 0.5;
+}
+
+footer{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    padding: 5px;
+    color: #fff;
+    background-color: #fc1a1a;
+    text-align: center;
 }

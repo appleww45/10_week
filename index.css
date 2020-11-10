@@ -131,6 +131,10 @@ center{
     padding: 20px; 
 }
 
+#앱:hover{
+    opacity: 0.5;
+}
+
 
 footer{
     width: 80%;
